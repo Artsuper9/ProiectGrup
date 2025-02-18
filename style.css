@@ -1,0 +1,22 @@
+body {
+    background: yellow;
+}
+.creeaza{
+    justify-self: center;
+    align-self: center;
+}
+
+.schimba {
+    justify-self: center;
+    align-self: center;
+}
+
+
+#patrat {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: none;
+    margin-top: 20px;
+    justify-self: center;
+}
